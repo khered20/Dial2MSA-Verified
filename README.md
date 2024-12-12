@@ -16,7 +16,7 @@ Welcome to the Dial2MSA-Verified repository. Dial2MSA-Verified is an extension o
 
 The evaluation was conducted using the Bilingual Evaluation Understudy (BLEU) and chrF++ metrics, employing the multi-reference SacreBLEU implementation [post-2018-call](https://aclanthology.org/W18-6319/).
 
-This is an example code for model evaluation using multi-reference translations in the [`Dial2MSA_Evaluation.ipynb`](https://github.com/khered20/Dial2MSA-Verified/blob/main/Dial2MSA_Evaluation.ipynb). Both `test_pred_egy.txt` and `test_pred_allDialects8000.txt` are fake prediction files for usage demonstrations. 
+This is an example code for model evaluation using multi-reference translations in the [`Dial2MSA_Evaluation.ipynb`](https://github.com/khered20/Dial2MSA-Verified/blob/main/Dial2MSA_Evaluation.ipynb). Both `test_pred_egy.txt` and `test_pred_allDialects8000.txt` are sample prediction files intended for demonstration purposes. 
 
 ### Requirements
 
