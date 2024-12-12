@@ -1,6 +1,6 @@
 # Dial2MSA-Verified
 
-Welcome to the Dial2MSA-Verified repository. Dial2MSA-Verified is an extension of the Dial2MSA dataset that includes verified MSA translations for Gulf, Egyptian, Levantine, and Maghrebi dialects from social media. This corpus was split into training, development and testing sets with multiple MSA references for better evaluation.
+Welcome to the Dial2MSA-Verified repository. Dial2MSA-Verified is an extension of the Dial2MSA [mubarakdial2msa](http://lrec-conf.org/workshops/lrec2018/W30/pdf/13_W30.pdf) dataset that includes verified MSA translations for Gulf, Egyptian, Levantine, and Maghrebi dialects from social media. This corpus was split into training, development and testing sets with multiple MSA references for better evaluation.
 
 ## Data Split
 
