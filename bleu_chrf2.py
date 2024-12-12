@@ -59,7 +59,7 @@ def eval_dial2msa(model,gold_file,pred_file,mtrx,scores_di,avg):
                 'Avg': [avg]    
                 }
     df = pd.DataFrame(raw_data,columns = ['model','g_file','p_file','metrx','Egy','Glf','Mgr','Lev','Avg'])
-    
+    print(df.iloc[: , -6:])
     evalpath= 'eval_dial2msa.csv'
     from os import path
     isexist = path.exists(evalpath)
