@@ -1,6 +1,6 @@
 # Dial2MSA-Verified
 
-Welcome to the Dial2MSA-Verified repository. Dial2MSA-Verified is an extension of the Dial2MSA dataset that includes verified translations for Gulf, Egyptian, Levantine, and Maghrebi dialects. This corpus is an evaluation dataset of multiple Arabic dialects in social media
+Welcome to the Dial2MSA-Verified repository. Dial2MSA-Verified is an extension of the Dial2MSA dataset that includes verified MSA translations for Gulf, Egyptian, Levantine, and Maghrebi dialects from social media. This corpus was split into training, development and testing sets with multiple MSA references for better evaluation.
 
 ## Data Split
 
@@ -14,9 +14,9 @@ Welcome to the Dial2MSA-Verified repository. Dial2MSA-Verified is an extension o
 
 ## Multi-Reference Evaluation 
 
-Evaluation was conducted using the Bilingual Evaluation Understudy (BLEU) and chrF++ metrics, employing the multi-reference SacreBLEU implementation [post-2018-call](https://aclanthology.org/W18-6319/).
+The evaluation was conducted using the Bilingual Evaluation Understudy (BLEU) and chrF++ metrics, employing the multi-reference SacreBLEU implementation [post-2018-call](https://aclanthology.org/W18-6319/).
 
-This is an example code for model evaluation using multi-reference translations in the [`Dial2MSA_Evaluation.ipynb`](https://github.com/khered20/Dial2MSA-Verified/blob/main/Dial2MSA_Evaluation.ipynb) . Both `test_pred_egy.txt` and `test_pred_allDialects8000.txt` are fake prediction files for usage demonstrations. 
+This is an example code for model evaluation using multi-reference translations in the [`Dial2MSA_Evaluation.ipynb`](https://github.com/khered20/Dial2MSA-Verified/blob/main/Dial2MSA_Evaluation.ipynb). Both `test_pred_egy.txt` and `test_pred_allDialects8000.txt` are fake prediction files for usage demonstrations. 
 
 ### Requirements
 
