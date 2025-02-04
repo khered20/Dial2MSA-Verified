@@ -55,7 +55,17 @@ This corpus is for research purposes only. Please cite the relevant publications
 If you find this work or the provided dataset useful in your research or projects, please cite our paper:
 
 ```bib
-
-==
-
+@inproceedings{khered-etal-2025-dial2msa,
+    title = "{D}ial2{MSA}-Verified: A Multi-Dialect {A}rabic Social Media Dataset for Neural Machine Translation to {M}odern {S}tandard {A}rabic",
+    author = "Khered, Abdullah  and
+      Benkhedda, Youcef  and
+      Batista-Navarro, Riza",
+    booktitle = "Proceedings of the 4th Workshop on Arabic Corpus Linguistics (WACL-4)",
+    month = jan,
+    year = "2025",
+    address = "Abu Dhabi, UAE",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.wacl-1.6/",
+    pages = "50--62"
+}
 ```
