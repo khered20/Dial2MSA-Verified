@@ -18,6 +18,8 @@ The evaluation was conducted using the Bilingual Evaluation Understudy (BLEU) an
 
 This is an example code for model evaluation using multi-reference translations in the [`Dial2MSA_Evaluation.ipynb`](https://github.com/khered20/Dial2MSA-Verified/blob/main/Dial2MSA_Evaluation.ipynb). Both `test_pred_egy.txt` and `test_pred_allDialects8000.txt` are sample prediction files intended for demonstration purposes. 
 
+This is another example code for model evaluation using the source tweets for each dialect as predicted targets in the [`Dial2MSA_Evaluation2Source.ipynb`](https://github.com/khered20/Dial2MSA-Verified/blob/main/Dial2MSA_Evaluation2Source.ipynb).
+
 ### Requirements
 
 ```
